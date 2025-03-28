@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #d1cece;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #1100ff;
 }
 
 
@@ -21,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #000000;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('/tmp/guest-hykkag/Área de Trabalho/joaogabrielbahu-main/joaogabrielbahu-main/download.jpeg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #0400ff;
 
 }
 
@@ -138,5 +138,5 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #d1cece;
 }
